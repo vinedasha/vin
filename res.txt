@@ -1,0 +1,5 @@
+PING yandex.ru (5.255.255.88) 56(84) bytes of data.
+
+--- yandex.ru ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 3ms
+rtt min/avg/max/mdev = 13.649/13.654/13.660/0.116 ms
